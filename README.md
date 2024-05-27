@@ -34,7 +34,7 @@
 - **Languages**:
     
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,javascript,css,bash&perline=3" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,javascript,css,bash&perline=3" />
   </a>
 
 <br>   
