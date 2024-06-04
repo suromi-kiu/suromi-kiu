@@ -59,12 +59,6 @@ __GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/suromi-kiu/LUIS_IFRAME.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=suromi-kiu&repo=LUIS_IFRAME" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/suromi-kiu/LUIS_XD.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=suromi-kiu&repo=LUIS_XD" alt="GitHub Stats" />
-    </a>
     <a href="https://github.com/suromi-kiu/Bash_functions">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=suromi-kiu&repo=Bash_functions" alt="GitHub Stats" />
     </a>
