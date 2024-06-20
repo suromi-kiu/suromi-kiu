@@ -62,6 +62,9 @@ __GitHub repository:__
     <a href="https://github.com/suromi-kiu/Bash_functions">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=suromi-kiu&repo=Bash_functions" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/suromi-kiu/python_basic">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=suromi-kiu&repo=python_basic" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
