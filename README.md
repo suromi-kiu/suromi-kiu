@@ -48,10 +48,10 @@
 
 <p align="center">
   <a href="https://github.com/suromi-kiu/Bash_functions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suromi-kiu&repo=Bash_functions&theme=github_dark&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=suromi-kiu&repo=Bash_functions&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ff99&text_color=ffffff" />
   </a>
   <a href="https://github.com/suromi-kiu/python_basic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suromi-kiu&repo=python_basic&theme=github_dark&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=suromi-kiu&repo=python_basic&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ff99&text_color=ffffff" />
   </a>
 </p>
 
@@ -63,7 +63,7 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=suromi-kiu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suromi-kiu&theme=github_dark" />
 
 </td>
 <td>
@@ -75,26 +75,15 @@
 </table>
 </p>
 
-<!-- Backup Stats -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suromi-kiu&theme=github_dark" />
-</p>
-
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 ## 📊 Languages Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suromi-kiu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<!-- Backup -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suromi-kiu&theme=github_dark" />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=suromi-kiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </p>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 ## 📈 Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suromi-kiu&theme=github-compact&hide_border=true" />
 </p>
