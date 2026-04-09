@@ -84,9 +84,7 @@
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 ## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suromi-kiu&theme=github-compact&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=suromi-kiu&theme=tokyo-night&hide_border=true" /> </p>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 ## 🧠 Dev Metrics
