@@ -56,6 +56,9 @@
   <a href="https://github.com/suromi-kiu/Hypr-dotfiles">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=suromi-kiu&repo=Hypr-dotfiles&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ff99&text_color=ffffff" />
   </a>
+  <a href="https://github.com/suromi-kiu/subnetting-tool">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=suromi-kiu&repo=Hypr-dotfiles&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ff99&text_color=ffffff" />
+  </a>
 </p>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
